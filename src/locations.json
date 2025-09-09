@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "Taj Mahal",
+    "lat": 27.1751,
+    "lng": 78.0421,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Taj-Mahal.jpg",
+    "description": "An ivory-white marble mausoleum in Agra, India, commissioned in 1632 by Mughal emperor Shah Jahan."
+  },
+  {
+    "id": 2,
+    "name": "Qutub Minar",
+    "lat": 28.5244,
+    "lng": 77.1855,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Qutub_Minar_Qutb_Minar.jpg",
+    "description": "A UNESCO World Heritage Site located in Delhi, India, built in the early 13th century."
+  },
+  {
+    "id": 3,
+    "name": "Fort Chaliyam",
+    "lat": 11.1551,
+    "lng": 75.8034,
+    "image": "https://commons.wikimedia.org/wiki/File:Beypore_Railway_Station,_Chaliyam.jpg#/media/File:Beypore_Railway_Station,_Chaliyam.jpg",
+    "description": "Constructed by the Portuguese in 1531, Fort Chaliyam was a strategic military outpost. Captured and dismantled by the Zamorin's forces in 1571, it played a pivotal r
